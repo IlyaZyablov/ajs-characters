@@ -1,11 +1,11 @@
 // Загрузка классов персонажей
 
-import Daemon from './classes/Daemon.js';
-import Bowerman from './classes/Bowerman.js';
-import Swordsman from './classes/Swordsman.js';
-import Magician from './classes/Magician.js';
-import Undead from './classes/Undead.js';
-import Zombie from './classes/Zombie.js';
+import Daemon from './classes/Daemon';
+import Bowerman from './classes/Bowerman';
+import Swordsman from './classes/Swordsman';
+import Magician from './classes/Magician';
+import Undead from './classes/Undead';
+import Zombie from './classes/Zombie';
 
 // Инициализация персонажей
 

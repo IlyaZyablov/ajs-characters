@@ -1,5 +1,5 @@
-import Daemon from '../classes/Daemon.js';
-import Bowerman from '../classes/Bowerman.js';
+import Daemon from '../classes/Daemon';
+import Bowerman from '../classes/Bowerman';
 
 test('damage test', () => {
   const daemonPlayer = new Daemon('User1', 'Daemon');
